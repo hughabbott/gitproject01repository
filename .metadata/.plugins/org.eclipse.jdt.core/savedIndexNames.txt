@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\Users\Hugh Abbott\gitproject01\.metadata\.plugins\org.eclipse.jdt.core
+1895151578.index
